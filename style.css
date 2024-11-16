@@ -1,0 +1,42 @@
+body{
+    background-color: #178d3e;
+    padding-top: 3rem;
+}
+
+.citacoes{
+    font-family: Helvetica, sans-serif;
+    font-size: 3rem;
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 1.5rem;
+    border: 2px solid #fff;
+    border-radius: 0.4rem;
+    color: #fff;
+}
+
+.citacoes .autor{
+    font: italic;
+    margin-bottom: 0,4rem;
+}
+
+.citacoes .autor{
+    font-weight: bold;
+    color: #133310;
+}
+
+.botao{
+    padding: 10px;
+    font-size: 1.4rem;
+    background-color: #0a2c07;
+    color: #fff;
+    border-radius: 5px;
+    padding: 0.8rem 1,2rem;
+    cursor: pointer;
+    border: none;
+    transition: .4s;
+}
+
+.botao:hover{
+    background-color: #12520c
+}
